@@ -1,0 +1,23 @@
+creando el repositorio
+1	en github boton nuevo y nombre del repositorio
+2	copiamos el http 	
+3	nos vamos a la terminal
+4	entramos en la carpeta
+5	git init
+6	git add -A
+7 	git commit -m "iniciales"
+8	git remote add origin y pegamos el http https://github.com/vinizzio/gasolineraAlban.git
+9	git remote -v
+10	git push origin master (manda los cambios)
+
+
+
+
+-	hago los cambios en sublime
+-	git status
+-	git add -A
+- 	git commit -m "iniciales"
+-	git log ver commits
+-	git push origin master (manda los cambios)
+
+
