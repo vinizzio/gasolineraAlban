@@ -19,5 +19,6 @@ creando el repositorio
 - 	git commit -m "iniciales"
 -	git log ver commits
 -	git push origin master (manda los cambios)
+cambios de prueba
 
 
